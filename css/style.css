@@ -4,11 +4,11 @@
 }
 @font-face{
     font-family:Rubik-Medium ;
-    src: url(font/Rubik-Medium.ttf);
+    src: url('../font/Rubik-Medium.ttf');
 }
 @font-face{
     font-family:Rubik-Regular ;
-    src: url(font/Rubik-Regular.ttf);
+    src: url('../font/Rubik-Regular.ttf');
 }
 .icon-link{
     display:flex;
